@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sp/code/SergioPx/TaxiFareModel/mlruns/1/7feaaa8459fd4e108c10a7c37f18631e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 7feaaa8459fd4e108c10a7c37f18631e
+run_uuid: 7feaaa8459fd4e108c10a7c37f18631e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1624354756187
+status: 1
+tags: []
+user_id: unknown
